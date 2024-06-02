@@ -6,7 +6,7 @@ This repo contains an easy-to-customize personal dev portfolio template that was
 
 To view a live demo, [click here](https://ryanfitzgerald.github.io/devportfolio/).
 
-Looking for a blog template? Checkout [DevBlog](https://github.com/kumarchinnu245/Portfolio).
+Looking for a blog template? Checkout [KumarChinnu](https://github.com/kumarchinnu245/Portfolio).
 
 ## Features
 
